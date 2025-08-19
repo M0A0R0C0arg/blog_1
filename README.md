@@ -7,6 +7,9 @@ Editar publicaciones existentes
 Eliminar publicaciones
 Interfaz sencilla con HTML/CSS
 Persistencia con SQLite y SQLAlchemy
+
+
+
 🧰 Tecnologías utilizadas
 Python 3.x
 Matraz
@@ -14,6 +17,10 @@ SQLAlchemy
 SQLite (base de datos por defecto)
 Jinja2 (plantillas HTML)
 Bootstrap (opcional, para el diseño)
+
+
+
+
 📦 Instalación
 1. Clona el repositorio
 git clone gh repo clone M0A0R0C0arg/aplicacion.web
