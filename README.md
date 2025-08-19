@@ -16,10 +16,7 @@ Jinja2 (plantillas HTML)
 Bootstrap (opcional, para el diseño)
 📦 Instalación
 1. Clona el repositorio
-git clone https://github.com/M0A0R0C0arg/blog.git
+git clone gh repo clone M0A0R0C0arg/aplicacion.web
 cd blog_1
 
-desarrollado por
-
-miguel rojas
-colaboradores henry
+colaboradores: henrry ortega
